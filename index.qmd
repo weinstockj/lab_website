@@ -22,7 +22,7 @@ Our **interests span both germline and somatic forms of genetic variation**, and
 
 ## Germline determinants of somatic mosaicism
 
-Previous and ongoing work leverages **biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions** and to discover their germline determinants and phenotypic correlates. We are particularly interested the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations.
+Previous and ongoing work leverages **biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions** and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations.
 
 <img src="images/TCL1A_GWAS.png" alt="TCL1A GWAS" style="width: 80%;">
 
