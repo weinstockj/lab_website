@@ -15,7 +15,7 @@ title: ""
 
 # Our research program
 
-We work at the **nexus of human genetics, biostatistics, and computation to discover and characterize disease associated genetic variation**. We are excited about both genetic epidemiolgy and computational methods development. 
+We work at the **nexus of human genetics, biostatistics, and computation to discover and characterize disease associated genetic variation**. We are excited about both genetic epidemiology and computational methods development. 
 
 Our **interests span both germline and somatic forms of genetic variation**, and integrative analyses thereof. In more detail, our interests span two primary axes:
 
