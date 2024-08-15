@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  page-footer:
+    background: light
+    left: Copyright 2024, Josh Weinstock
+    right: |
+     ![](/images/emory_logo_very_small.png)
+
+  navbar:
+    title: false
+    background: "#012169"
+    logo: /images/lab_logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: positions.qmd
+        text: "Positions"
+      - href: contact.qmd
+        text: "Contact"
+      - href: news.qmd
+        text: "News"
+      - href: about.qmd
+        text: "About the PI"
+
+format:
+  html:
+    theme:
+      - journal
+      - styles.scss
+    mainfont: Roboto
+    toc: true
+    page-layout: full
+
+
+
