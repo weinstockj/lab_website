@@ -1,0 +1,8 @@
+---
+Title: "LabWAS: Novel findings and study design recommendations from a meta-analysis of clinical labs in two independent biobanks"
+Authors: "Jeffrey A. Goldstein*, Joshua S. Weinstock*, Lisa A. Bastarache, …, Matthew Zawistowski^"
+Venue: "PLOS Genetics"
+Year: 2020
+DOI: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009077"
+
+---

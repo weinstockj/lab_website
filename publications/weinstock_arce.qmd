@@ -1,0 +1,8 @@
+---
+Title: "Gene regulatory network inference from CRISPR perturbations in primary CD4+ T cells elucidates the genomic basis of immune disease"
+Authors: "Joshua S. Weinstock*, Maya M. Arce*, Jacob Freimer, Mineto Ota, Alexander Marson^, Alexis Battle^, Jonathan Pritchard^"
+Venue: "Cell Genomics (In Press)"
+Year: 2024
+DOI: "https://www.biorxiv.org/content/10.1101/2023.09.17.557749v2"
+
+---

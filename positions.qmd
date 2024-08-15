@@ -1,0 +1,27 @@
+---
+title: "Open positions"
+---
+
+<div style="text-align: center;">
+  <strong>We are now open and hiring at all levels!</strong>
+</div>
+
+## PhD Students
+
+We are taking rotation students from the Genetics and Molecular Biology (GMB) program. Please contact Josh if you are interested in a rotation. Note: this is a computational lab, and quantitative skills are highly valued. Tailored computational training programs are a possibility for enthusiastic students without a 
+quantitative background. 
+
+Starting in 2025, we will also recruit Biostatistics PhD students. 
+
+We are open to co-mentorship opportunities as well with other labs. 
+
+## Postdocs 
+
+Your application should include a cover letter describing your interest in our work. It would be ideal to propose a specific project that aligns with our interests and is distinct from your previous work. Please include your CV and a list of references. 
+
+Postdoc candidates should have a PhD in 
+genetics, biostatistics, computer science, epidemiology, biomedical engineering, or similar. Candidates should have at least one first-author publication in a peer-reviewed journal. 
+
+## Undergraduates
+
+We are accepting applications from undergraduates with interests that align with our research program. Please contact Josh with your interests, and suggest an idea that you have for a project. 

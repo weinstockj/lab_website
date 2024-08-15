@@ -1,0 +1,8 @@
+---
+Title: "Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis"
+Authors: "Joshua S. Weinstock*, Jayakrishan Gopakumar*, Bala Bharathi Burugla, Md Mesbah Uddin, …, Alexander G. Bick^, Siddhartha Jaiswal^"
+Venue: "Nature"
+Year: 2023
+DOI: "https://www.nature.com/articles/s41586-023-05806-1"
+
+---

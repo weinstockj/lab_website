@@ -1,0 +1,35 @@
+---
+title: ""
+---
+
+```{=html}
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div>
+    <img src="images/lab_logo_large.png" alt="Image description" style="max-width: 750px;">
+    <h2 style="font-size: 2.3em; text-align: center;"> Emory University<br>Department of Human Genetics</h2>
+  </div>
+</div>
+<div style="height: 15px;"></div>
+<hr style="border: 3px solid #000; margin: 20px 0;">
+```
+
+# Our research program
+
+We work at the **nexus of human genetics, biostatistics, and computation to discover and characterize disease associated genetic variation**. We are excited about both genetic epidemiolgy and computational methods development. 
+
+Our **interests span both germline and somatic forms of genetic variation**, and integrative analyses thereof. In more detail, our interests span two primary axes:
+
+
+## Germline determinants of somatic mosaicism
+
+Previous and ongoing work leverages **biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions** and to discover their germline determinants and phenotypic correlates. We are particularly interested the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations.
+
+<img src="images/TCL1A_GWAS.png" alt="TCL1A GWAS" style="width: 80%;">
+
+## Gene regulatory networks + complex traits
+
+We are interested in the characterization of the trans-regulatory cascade of disease-associated regulatory variation discovered by GWAS. **We are particularly enthusiastic about high-throughput CRISPR perturbation approaches paired with bespoke statistical methods for computationally inferring gene regulatory networks**. Our perspective is that these gene regulatory networks offer rich mechanistic insight into otherwise opaque GWAS loci.
+
+<img src="images/LLCB_sub_figure.svg" alt="LLCB" style="width: 80%;">
+
+Our lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets.

@@ -1,0 +1,23 @@
+---
+title: "Publications"
+toc: false
+listing: 
+    id: selected
+    contents: "publications/**.qmd"
+    template: ./templates/reference.ejs
+    sort:
+        - "Year desc"
+        - "title"
+    fields: [authors, venue, year, title, doi]
+    field-display-names: 
+      venue: "Journal"
+---
+
+## All publications
+
+See our work in [Google Scholar](https://scholar.google.com/citations?user=CLAG6P4AAAAJ)
+
+## Selected publications
+
+::: {#selected}
+:::

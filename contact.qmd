@@ -1,0 +1,17 @@
+---
+title: "Contact"
+---
+
+## Email
+
+<a href="mailto:josh.weinstock@emory.edu">
+  <i class="fas fa-envelope"></i> josh.weinstock@emory.edu
+</a>
+
+## Office
+
+347 Whitehead Building  
+615 Michael Street  
+Atlanta, GA 30322  
+
+Phone: (404)-727-4241  

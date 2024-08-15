@@ -1,0 +1,13 @@
+
+```{=html}
+<ul class="pub-list list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <span class="listing-title lead"><a href="<%= item.DOI %>"> <%= item.Title %> </a> </span><br />
+    <span class="listing-author"><%= item.Authors %></span><br />
+    <span class="listing-journal"><%= item.Venue %>, <%= item.Year %></span><br />
+  </li>
+<% } %>
+</ul>
+
+```

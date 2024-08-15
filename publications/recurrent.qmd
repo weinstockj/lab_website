@@ -1,0 +1,7 @@
+---
+Title: "The genetic determinants of recurrent somatic mutations in 43,693 blood genomes"
+Authors: "Joshua S. Weinstock, Cecelia A Laurie, Jai G Broome, et al."
+Venue: "Science Advances"
+Year: 2023
+DOI: "https://www.science.org/doi/10.1126/sciadv.abm4945"
+---
