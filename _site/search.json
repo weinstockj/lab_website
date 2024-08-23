@@ -4,21 +4,77 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "See our work in Google Scholar"
+    "text": "See our work in Google Scholar\n* denotes co-first authorship, and ^ denotes corresponding authorship."
   },
   {
-    "objectID": "publications.html#all-publications",
-    "href": "publications.html#all-publications",
+    "objectID": "publications.html#all-publications-and-preprints",
+    "href": "publications.html#all-publications-and-preprints",
     "title": "Publications",
     "section": "",
-    "text": "See our work in Google Scholar"
+    "text": "See our work in Google Scholar\n* denotes co-first authorship, and ^ denotes corresponding authorship."
   },
   {
-    "objectID": "publications.html#selected-publications",
-    "href": "publications.html#selected-publications",
+    "objectID": "publications.html#selected-publications-and-preprints",
+    "href": "publications.html#selected-publications-and-preprints",
     "title": "Publications",
-    "section": "Selected publications",
-    "text": "Selected publications\n\n\n\n  \n     Gene regulatory network inference from CRISPR perturbations in primary CD4+ T cells elucidates the genomic basis of immune disease  \n    Joshua S. Weinstock*, Maya M. Arce*, Jacob Freimer, Mineto Ota, Alexander Marson^, Alexis Battle^, Jonathan Pritchard^\n    Cell Genomics (In Press), 2024\n  \n\n  \n     The genetic determinants of recurrent somatic mutations in 43,693 blood genomes  \n    Joshua S. Weinstock, Cecelia A Laurie, Jai G Broome, et al.\n    Science Advances, 2023\n  \n\n  \n     Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis  \n    Joshua S. Weinstock*, Jayakrishan Gopakumar*, Bala Bharathi Burugla, Md Mesbah Uddin, …, Alexander G. Bick^, Siddhartha Jaiswal^\n    Nature, 2023\n  \n\n  \n     Inherited causes of clonal haematopoiesis in 97,691 whole genomes  \n    Alexander G. Bick*, Joshua S. Weinstock*, Satish K Nandakumar, Charles P Fulco, …, Sekar Kathiresan^, Pradeep Natarajan^\n    Nature, 2020\n  \n\n  \n     LabWAS: Novel findings and study design recommendations from a meta-analysis of clinical labs in two independent biobanks  \n    Jeffrey A. Goldstein*, Joshua S. Weinstock*, Lisa A. Bastarache, …, Matthew Zawistowski^\n    PLOS Genetics, 2020\n  \n\n\n\n\nNo matching items"
+    "section": "Selected publications and preprints",
+    "text": "Selected publications and preprints\n\n\n\n  \n     The Genetic Determinants and Genomic Consequences of Non-Leukemogenic Somatic Point Mutations  \n    Joshua S. Weinstock^, Sharjeel A. Chaudhry, Maria Ioannou, Maria Viskadourou, ..., Alexis Battle^, Marios Arvanitis^\n    biorxiv, 2024\n  \n\n  \n     Gene regulatory network inference from CRISPR perturbations in primary CD4+ T cells elucidates the genomic basis of immune disease  \n    Joshua S. Weinstock*, Maya M. Arce*, Jacob Freimer, Mineto Ota, Alexander Marson^, Alexis Battle^, Jonathan Pritchard^\n    Cell Genomics (In Press), 2024\n  \n\n  \n     The genetic determinants of recurrent somatic mutations in 43,693 blood genomes  \n    Joshua S. Weinstock^, Cecelia A Laurie, Jai G Broome, et al.\n    Science Advances, 2023\n  \n\n  \n     Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis  \n    Joshua S. Weinstock*, Jayakrishan Gopakumar*, Bala Bharathi Burugla, Md Mesbah Uddin, …, Alexander G. Bick^, Siddhartha Jaiswal^\n    Nature, 2023\n  \n\n  \n     Inherited causes of clonal haematopoiesis in 97,691 whole genomes  \n    Alexander G. Bick*, Joshua S. Weinstock*, Satish K Nandakumar, Charles P Fulco, …, Sekar Kathiresan^, Pradeep Natarajan^\n    Nature, 2020\n  \n\n  \n     LabWAS: Novel findings and study design recommendations from a meta-analysis of clinical labs in two independent biobanks  \n    Jeffrey A. Goldstein*, Joshua S. Weinstock*, Lisa A. Bastarache, …, Matthew Zawistowski^\n    PLOS Genetics, 2020\n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News and Press",
+    "section": "",
+    "text": "We’ve opened our doors at Emory!"
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News and Press",
+    "section": "",
+    "text": "We’ve opened our doors at Emory!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "josh.weinstock@emory.edu"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "josh.weinstock@emory.edu"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\n347 Whitehead Building\n615 Michael Street\nAtlanta, GA 30322\nPhone: (404)-727-4241"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Joshua Weinstock, Ph.D.",
+    "section": "",
+    "text": "I am an Assistant Professor in the Department of Human Genetics at Emory University. My lab uses statistical and machine learning approaches to discover and characterize disease associated genetic variation. Previously, I was a postdoctoral scholar working jointly with Jonathan Pritchard (Stanford, Genetics) and Alexis Battle (Johns Hopkins, Biomedical Engineering), and then an Assistant Research Scientist in the Battle Lab. I completed a PhD in the Biostatistics department of the University of Michigan, where I was advised by Goncalo Abecasis. At Michigan, my contributions included analysis of somatic variation called from whole genomes generated by the NHLBI TOPMed consortium. I have also consulted for a number of years with a Major League Baseball team on sports statistics."
+  },
+  {
+    "objectID": "index.html#germline-determinants-of-somatic-mosaicism",
+    "href": "index.html#germline-determinants-of-somatic-mosaicism",
+    "title": "Our research program",
+    "section": "Germline determinants of somatic mosaicism",
+    "text": "Germline determinants of somatic mosaicism\nPrevious and ongoing work leverages biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations."
+  },
+  {
+    "objectID": "index.html#gene-regulatory-networks-complex-traits",
+    "href": "index.html#gene-regulatory-networks-complex-traits",
+    "title": "Our research program",
+    "section": "Gene regulatory networks + complex traits",
+    "text": "Gene regulatory networks + complex traits\nWe are interested in the characterization of the trans-regulatory cascade of disease-associated regulatory variation discovered by GWAS. We are particularly enthusiastic about high-throughput CRISPR perturbation approaches paired with bespoke statistical methods for computationally inferring gene regulatory networks. Our perspective is that these gene regulatory networks offer rich mechanistic insight into otherwise opaque GWAS loci.\n\nOur lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets."
   },
   {
     "objectID": "positions.html",
@@ -47,61 +103,5 @@
     "title": "Open positions",
     "section": "Undergraduates",
     "text": "Undergraduates\nWe are accepting applications from undergraduates with interests that align with our research program. Please contact Josh with your interests, and suggest an idea that you have for a project."
-  },
-  {
-    "objectID": "index.html#germline-determinants-of-somatic-mosaicism",
-    "href": "index.html#germline-determinants-of-somatic-mosaicism",
-    "title": "Our research program",
-    "section": "Germline determinants of somatic mosaicism",
-    "text": "Germline determinants of somatic mosaicism\nPrevious and ongoing work leverages biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations."
-  },
-  {
-    "objectID": "index.html#gene-regulatory-networks-complex-traits",
-    "href": "index.html#gene-regulatory-networks-complex-traits",
-    "title": "Our research program",
-    "section": "Gene regulatory networks + complex traits",
-    "text": "Gene regulatory networks + complex traits\nWe are interested in the characterization of the trans-regulatory cascade of disease-associated regulatory variation discovered by GWAS. We are particularly enthusiastic about high-throughput CRISPR perturbation approaches paired with bespoke statistical methods for computationally inferring gene regulatory networks. Our perspective is that these gene regulatory networks offer rich mechanistic insight into otherwise opaque GWAS loci.\n\nOur lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Joshua Weinstock, Ph.D.",
-    "section": "",
-    "text": "I am an Assistant Professor in the Department of Human Genetics at Emory University. My lab uses statistical and machine learning approaches to discover and characterize disease associated genetic variation. Previously, I was a postdoctoral scholar working jointly with Jonathan Pritchard (Stanford, Genetics) and Alexis Battle (Johns Hopkins, Biomedical Engineering), and then an Assistant Research Scientist in the Battle Lab. I completed a PhD in the Biostatistics department of the University of Michigan, where I was advised by Goncalo Abecasis. At Michigan, my contributions included analysis of somatic variation called from whole genomes generated by the NHLBI TOPMed consortium. I have also consulted for a number of years with a Major League Baseball team on sports statistics."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "josh.weinstock@emory.edu"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "josh.weinstock@emory.edu"
-  },
-  {
-    "objectID": "contact.html#office",
-    "href": "contact.html#office",
-    "title": "Contact",
-    "section": "Office",
-    "text": "Office\n347 Whitehead Building\n615 Michael Street\nAtlanta, GA 30322\nPhone: (404)-727-4241"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News and Press",
-    "section": "",
-    "text": "We’ve opened our doors at Emory!"
-  },
-  {
-    "objectID": "news.html#section",
-    "href": "news.html#section",
-    "title": "News and Press",
-    "section": "",
-    "text": "We’ve opened our doors at Emory!"
   }
 ]

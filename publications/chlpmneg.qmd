@@ -1,0 +1,8 @@
+---
+Title: "The Genetic Determinants and Genomic Consequences of Non-Leukemogenic Somatic Point Mutations"
+Authors: "Joshua S. Weinstock^, Sharjeel A. Chaudhry, Maria Ioannou, Maria Viskadourou, ..., Alexis Battle^, Marios Arvanitis^"
+Venue: "biorxiv"
+Year: 2024
+DOI: "https://www.medrxiv.org/content/10.1101/2024.08.22.24312319v1"
+
+---

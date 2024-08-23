@@ -13,11 +13,13 @@ listing:
       venue: "Journal"
 ---
 
-## All publications
+## All publications and preprints
 
 See our work in [Google Scholar](https://scholar.google.com/citations?user=CLAG6P4AAAAJ)
 
-## Selected publications
+\* denotes co-first authorship, and ^ denotes corresponding authorship. 
+
+## Selected publications and preprints
 
 ::: {#selected}
 :::
