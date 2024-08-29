@@ -5,7 +5,7 @@ title: ""
 ```{=html}
 <div style="display: flex; justify-content: center; align-items: center;">
   <div>
-    <img src="images/lab_logo_large.png" alt="Image description" style="width: 80%; height: auto;">
+    <img src="images/lab_logo_large.png" alt="Image description" style="width: 90%; height: auto;">
     <h2 style="font-size: 2.3em; text-align: center;"> Emory University<br>Department of Human Genetics</h2>
   </div>
 </div>
