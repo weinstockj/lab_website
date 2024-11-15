@@ -2,5 +2,26 @@
 title: "News and Press"
 ---
 
+## 2024/11/7
+
+We presented our work on [clonal hematopoiesis without known drivers](https://www.medrxiv.org/content/10.1101/2024.08.22.24312319v2) at ASHG24, which received
+a reviewers' choice award (top 10% of poster abstracts).  
+
+## 2024/10/11
+
+Our work on inferring gene regulatory networks in CD4+ T cells is now online at [Cell Genomics](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00290-8)! 
+
+## 2024/10/1
+
+We extraordinarily fortunate to welcome three talented students to the lab:
+
+### Master's students
+ - Xuebo Wang
+
+### Undergraduate students
+ - Amber Zhou
+ - Mingke Tian
+
 ## 2024/08/14
+
 We've opened our doors at Emory! 
