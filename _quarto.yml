@@ -4,9 +4,8 @@ project:
 website:
   page-footer:
     background: light
-    left: Copyright 2024, Josh Weinstock
-    center: |
-     ![](/images/winship_logo.png){width=175 height=80}
+    left: | 
+      Copyright 2024, Josh Weinstock
     right: |
      ![](/images/emory_logo_very_small.png){width=290 height=80}
 
