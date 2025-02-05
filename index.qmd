@@ -33,3 +33,7 @@ We are interested in the characterization of the trans-regulatory cascade of dis
 <img src="images/LLCB_sub_figure.svg" alt="LLCB" style="width: 80%;">
 
 Our lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets.
+
+# Affiliations
+
+We are members of the [Winship Cancer Institute](https://winshipcancer.emory.edu/) and the [Center of Computational and Quantitative Genetics](https://med.emory.edu/departments/human-genetics/research/computational-analytics/index.html#:~:text=The%20Center%20of%20Computational%20and,computational%20sciences%20and%20human%20genetics.). 

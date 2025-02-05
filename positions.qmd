@@ -8,12 +8,17 @@ title: "Open positions"
 
 ## PhD Students
 
-We are taking rotation students from the Genetics and Molecular Biology (GMB) program. Please contact Josh if you are interested in a rotation. Note: this is a computational lab, and quantitative skills are highly valued. Tailored computational training programs are a possibility for enthusiastic students without a 
+We primarily work with students enrolled in the [Biostatistics and Bioinformatics program](https://sph.emory.edu/departments/bios/degree-programs/phd/index.html). Although our primary affiliation 
+is in Human Genetics, we are still able to recruit BIOS students. 
+Prospective students should have an interest in statistical 
+genetics and genetic epidemiology. You are welcome to contact
+Josh ahead of time, although admissions are centralized through the BIOS admissions committee. 
+
+
+We are also affiliated with the Genetics and Molecular Biology (GMB) program. Please contact Josh if you are interested in a rotation. Note: this is a computational lab, and quantitative skills are highly valued. Tailored computational training programs are a possibility for enthusiastic students without a 
 quantitative background. 
 
-Starting in 2025, we will also recruit Biostatistics PhD students. 
-
-We are open to co-mentorship opportunities as well with other labs. 
+We are open to co-mentorship opportunities as well with other labs.
 
 ## Postdocs 
 
@@ -28,7 +33,4 @@ We are accepting applications from undergraduates with interests that align with
 
 ## Our lab culture
 
-We value a highly collaborative, interactive scientific environment, where cross-pollination of ideas from trainees in different disciplines is highly 
-encouraged. We especially prioritize an inclusive, polite, and professional
-work culture. We anticipate a mix of regular events, spanning lab meetings,
-journal clubs, and lab lunches and other social events. 
+We value a highly collaborative, interactive scientific environment, where cross-pollination of ideas from trainees in different disciplines is highly encouraged. We especially prioritize an inclusive, polite, and professional work culture. We have a mix of regular events, spanning lab meetings, journal clubs, and lab lunches and other social events. 
