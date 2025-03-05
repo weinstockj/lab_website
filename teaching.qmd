@@ -1,0 +1,12 @@
+---
+title: "Teaching"
+---
+
+## BIOS 770, Statistical Methods in Human Genetics (Spring 2025):
+
+[Mendelian Randomization](lecture_slides/MR_lecture.html)
+
+[GWAS methods for biobank scale data](lecture_slides/biobank_scale_methods_lecture.html)
+
+[Polygenic risk scores and linkage disequilibrium regression](lecture_slides/PRS_lecture.html)
+
