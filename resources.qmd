@@ -1,0 +1,25 @@
+---
+title: "Resources"
+---
+
+# Statistical/ML methods for genetics/genomics 
+
+## Tools for inferring gene regulatory networks
+
+ - [LLCB](https://github.com/weinstockj/LLCB) : Our algorithm for inferring gene-regulatory networks from arrayed CRISPR perturbations with a bulk RNA-seq read-out. 
+
+## Tools for genome-wide association studies
+
+ - [gwasplot](https://github.com/weinstockj/gwasplot) : This is our in house R package for working with large-scale GWAS derived from WGS with many rare variants. It is very performant because it uses duckdb underneath. 
+ - [UKB_regenie_workflow](https://github.com/weinstockj/UKB_regenie_workflow) : This our workflow for running REGENIE in the UK Biobank DNA Nexus RAP. It is better than the 'applet' built into the platform. 
+
+
+## Tools for somatic variation analysis
+ - [GEM](https://github.com/weinstockj/GEM) : The genomic and epigenomic mutation rate estimator.  
+ - [pileup_region](https://github.com/weinstockj/pileup_region)  : This was used to call U2AF1 mutatios in TOPMed. 
+ - [PACER](https://github.com/weinstockj/passenger_count_variant_calling) . This is the 'official' implementation of the variant calling procedure to quantify passenger mutations, which are the key ingredient of the Passenger-Approximated Clonal Expansion Rate (PACER). 
+
+## Our methods development philosophy
+
+We develop primarily in R/Python/Julia, with things trending more towards Julia. We aspire to write code that facilitates reproducible science. Practically, this means unit tests, documentation, Docker/Singularity images, and continuous integration (all of these facilitate reproducibility). We are increasingly adopting these principles into all of code bases that are in progress.  
+

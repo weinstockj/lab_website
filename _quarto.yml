@@ -21,6 +21,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
+      - href: resources.qmd
+        text: Resources
       - href: positions.qmd
         text: "Positions"
       - href: contact.qmd
