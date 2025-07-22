@@ -1,0 +1,7 @@
+---
+Title: "Polygenic prediction of phenotypes with a neural empirical Bayes approach"
+Authors: "Joshua S. Weinstock*, April Kim*, Alexis Battle"
+Venue: "medRxiv"
+Year: 2025
+DOI: "https://www.medrxiv.org/content/10.1101/2025.07.21.25331918v1"
+---
