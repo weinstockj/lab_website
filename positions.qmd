@@ -8,15 +8,11 @@ title: "Open positions"
 
 ## PhD Students
 
-We primarily work with students enrolled in the [Biostatistics and Bioinformatics program](https://sph.emory.edu/departments/bios/degree-programs/phd/index.html). Although our primary affiliation 
-is in Human Genetics, we are still able to recruit BIOS students. 
-Prospective students should have an interest in statistical 
-genetics and genetic epidemiology. You are welcome to contact
+We primarily work with students enrolled in the [Biostatistics and Bioinformatics program](https://sph.emory.edu/departments/bios/degree-programs/phd/index.html) or the [Genetics and Molecular Biology program](https://biomed.emory.edu/PROGRAM_SITES/GMB/). Although our primary affiliation 
+is in Human Genetics, we are still able to recruit BIOS students. Prospective students should have an interest in statistical genetics and genetic epidemiology. You are welcome to contact
 Josh ahead of time, although admissions are centralized through the BIOS admissions committee. 
 
-
-We are also affiliated with the Genetics and Molecular Biology (GMB) program. Please contact Josh if you are interested in a rotation. Note: this is a computational lab, and quantitative skills are highly valued. Tailored computational training programs are a possibility for enthusiastic students without a 
-quantitative background. 
+GMB students: Please contact Josh if you are interested in a rotation. Note: this is a computational lab, and quantitative skills are valued. Tailored computational training programs are a possibility for enthusiastic students without a quantitative background. 
 
 We are open to co-mentorship opportunities as well with other labs.
 
