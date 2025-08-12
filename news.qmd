@@ -2,6 +2,14 @@
 title: "News and Press"
 ---
 
+## 2025/7/22
+
+We preprinted our [new polygenic risk score method](https://www.medrxiv.org/content/10.1101/2025.07.21.25331918v1) (with April Kim and Alexis Battle). 
+
+## 2025/2/7
+
+We presented our work on gene regulatory network inference in CD4 T cells to the [ENCORE group](https://encore-group.emory.edu/encore-hosts-invited-seminar-with-joshua-weinstock-on-gene-regulatory-networks/). 
+
 ## 2024/11/7
 
 We presented our work on [clonal hematopoiesis without known drivers](https://www.medrxiv.org/content/10.1101/2024.08.22.24312319v2) at ASHG24, which received
