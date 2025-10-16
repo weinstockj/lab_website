@@ -20,6 +20,8 @@ title: "Resources"
  - [GEM](https://github.com/weinstockj/GEM) : The genomic and epigenomic mutation rate estimator.  
  - [pileup_region](https://github.com/weinstockj/pileup_region)  : This was used to call U2AF1 mutatios in TOPMed. 
  - [PACER](https://github.com/weinstockj/passenger_count_variant_calling) . This is the 'official' implementation of the variant calling procedure to quantify passenger mutations, which are the key ingredient of the Passenger-Approximated Clonal Expansion Rate (PACER). 
+ - [somatic.emory.edu](somatic.emory.edu) : Our interactive portal for viewing associations between CH point mutations and disease in UKB at a single-variant level
+ - [CH calling pipeline](https://github.com/weinstockj/UKB_CHIP_calling) : Our bcftools approach to calling CH point mutations 
 
 ## Our methods development philosophy
 

@@ -2,6 +2,10 @@
 title: "News and Press"
 ---
 
+## 2025/10/16
+
+We presented our [work on novel forms of CH point mutations](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v1) at ASHG 2025!
+
 ## 2025/7/22
 
 We preprinted our [new polygenic risk score method](https://www.medrxiv.org/content/10.1101/2025.07.21.25331918v1) (with April Kim and Alexis Battle). 
