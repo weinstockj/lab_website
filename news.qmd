@@ -4,7 +4,12 @@ title: "News and Press"
 
 ## 2025/10/16
 
-We presented our [work on novel forms of CH point mutations](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v1) at ASHG 2025!
+ - We presented our [work on novel forms of CH point mutations](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v1) at ASHG 2025 (platform talk)
+ - Our [work](https://www.nature.com/articles/s41467-025-64236-x) on 'driverless' CH is now up at Nature Communications 
+
+## 2025/9/28
+
+Xuebo Wang presented our work on using genomic foundation to infer gene regulatory networks at the DOHG retreat.
 
 ## 2025/7/22
 
