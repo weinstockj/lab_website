@@ -9,7 +9,7 @@ title: "News and Press"
 
 ## 2025/9/28
 
-Xuebo Wang presented our work on using genomic foundation to infer gene regulatory networks at the DOHG retreat.
+Xuebo Wang presented our work on using genomic foundation models to infer gene regulatory networks at the DOHG retreat.
 
 ## 2025/7/22
 
