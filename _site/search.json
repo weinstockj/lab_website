@@ -1,143 +1,66 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
     "section": "",
-    "text": "Mendelian Randomization\nGWAS methods for biobank scale data\nPolygenic risk scores and linkage disequilibrium regression"
+    "text": "We are extraordinarily fortunate to be joined by an incredibly talented group of trainees and staff members!"
   },
   {
-    "objectID": "teaching.html#bios-770-statistical-methods-in-human-genetics-spring-2025",
-    "href": "teaching.html#bios-770-statistical-methods-in-human-genetics-spring-2025",
-    "title": "Teaching",
+    "objectID": "team.html#phd-students",
+    "href": "team.html#phd-students",
+    "title": "Team",
+    "section": "PhD Students",
+    "text": "PhD Students\n\n\nXuebo Wang\nXuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program.\n\n\n\nYikai Dong\nYikai is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab."
+  },
+  {
+    "objectID": "team.html#research-staff",
+    "href": "team.html#research-staff",
+    "title": "Team",
+    "section": "Research Staff",
+    "text": "Research Staff\n\n\n\n\nPrarthana Sanjeeva Reddy\nPrarthana Sanjeeva Reddy is a Lead Research Specialist at Emory School of Medicine working with Dr. Joshua Weinstock, where she conducts genome-wide association studies focused on clonal hematopoiesis. She holds an M.S. in Bioinformatics from Georgia Institute of Technology and has prior research experience at Yale School of Public Health, and industry settings in protein science and therapeutic design. Her work focuses on large-scale whole-genome sequencing and genome-wide association studies to understand the genetic basis of clonal hematopoiesis and germline determinants of clonal expansion."
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\nPast Lab Members\n\nMingke Tian (2024-2025), Emory Undergraduate\nAmber Zhou (2024-2025), Emory Undergraduate"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Mendelian Randomization\nGWAS methods for biobank scale data\nPolygenic risk scores and linkage disequilibrium regression"
+    "text": "LLCB : Our algorithm for inferring gene-regulatory networks from arrayed CRISPR perturbations with a bulk RNA-seq read-out.\n\n\n\n\n\ngwasplot : This is our in house R package for working with large-scale GWAS derived from WGS with many rare variants. It is very performant because it uses duckdb underneath.\nUKB_regenie_workflow : This our workflow for running REGENIE in the UK Biobank DNA Nexus RAP. It is better than the ‘applet’ built into the platform.\nPRSFNN: Our neural empirical Bayesian PRS method.\nPRSFNN SNP Annotations: Our pipeline for generating SNP annotations for PRSFNN.\n\n\n\n\n\nGEM : The genomic and epigenomic mutation rate estimator.\n\npileup_region : This was used to call U2AF1 mutatios in TOPMed.\nPACER . This is the ‘official’ implementation of the variant calling procedure to quantify passenger mutations, which are the key ingredient of the Passenger-Approximated Clonal Expansion Rate (PACER).\nsomatic.emory.edu : Our interactive portal for viewing associations between CH point mutations and disease in UKB at a single-variant level\nCH calling pipeline : Our bcftools approach to calling CH point mutations\n\n\n\n\nWe develop primarily in R/Python/Julia/Rust, with things trending more towards Julia and Rust. We aspire to write code that facilitates reproducible science. Practically, this means unit tests, documentation, Docker/Singularity images, and continuous integration (all of these facilitate reproducibility). We are increasingly adopting these principles into all of our code bases that are in progress."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "resources.html#gene-regulatory-network-inference",
+    "href": "resources.html#gene-regulatory-network-inference",
+    "title": "Resources",
     "section": "",
-    "text": "See our work in Google Scholar\n* denotes co-first authorship, and ^ denotes corresponding authorship."
+    "text": "LLCB : Our algorithm for inferring gene-regulatory networks from arrayed CRISPR perturbations with a bulk RNA-seq read-out."
   },
   {
-    "objectID": "publications.html#all-publications-and-preprints",
-    "href": "publications.html#all-publications-and-preprints",
-    "title": "Publications",
+    "objectID": "resources.html#gwas-prs",
+    "href": "resources.html#gwas-prs",
+    "title": "Resources",
     "section": "",
-    "text": "See our work in Google Scholar\n* denotes co-first authorship, and ^ denotes corresponding authorship."
+    "text": "gwasplot : This is our in house R package for working with large-scale GWAS derived from WGS with many rare variants. It is very performant because it uses duckdb underneath.\nUKB_regenie_workflow : This our workflow for running REGENIE in the UK Biobank DNA Nexus RAP. It is better than the ‘applet’ built into the platform.\nPRSFNN: Our neural empirical Bayesian PRS method.\nPRSFNN SNP Annotations: Our pipeline for generating SNP annotations for PRSFNN."
   },
   {
-    "objectID": "publications.html#selected-publications-and-preprints",
-    "href": "publications.html#selected-publications-and-preprints",
-    "title": "Publications",
-    "section": "Selected publications and preprints",
-    "text": "Selected publications and preprints\n\n\n\n  \n     The Genetic Determinants and Genomic Consequences of Non-Leukemogenic Somatic Point Mutations  \n    Joshua S. Weinstock^, Sharjeel A. Chaudhry, Maria Ioannou, Maria Viskadourou, ..., Alexis Battle^, Marios Arvanitis^\n    Nature Communications, 2025\n  \n\n  \n     Genome-wide characterization of clonal hematopoiesis reveals extensive non-coding putative driver mutations  \n    Joshua S. Weinstock^, Karen Conneely, Janghee Woo, Marios Arvanitis, Mitchell J. Machiela, Cameron Russell\n    medRxiv, 2025\n  \n\n  \n     Polygenic prediction of phenotypes with a neural empirical Bayes approach  \n    Joshua S. Weinstock*, April Kim*, Alexis Battle\n    medRxiv, 2025\n  \n\n  \n     Gene regulatory network inference from CRISPR perturbations in primary CD4+ T cells elucidates the genomic basis of immune disease  \n    Joshua S. Weinstock*, Maya M. Arce*, Jacob Freimer, Mineto Ota, Alexander Marson^, Alexis Battle^, Jonathan Pritchard^\n    Cell Genomics, 2024\n  \n\n  \n     The genetic determinants of recurrent somatic mutations in 43,693 blood genomes  \n    Joshua S. Weinstock^, Cecelia A Laurie, Jai G Broome, et al.\n    Science Advances, 2023\n  \n\n  \n     Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis  \n    Joshua S. Weinstock*, Jayakrishan Gopakumar*, Bala Bharathi Burugla, Md Mesbah Uddin, …, Alexander G. Bick^, Siddhartha Jaiswal^\n    Nature, 2023\n  \n\n  \n     Inherited causes of clonal haematopoiesis in 97,691 whole genomes  \n    Alexander G. Bick*, Joshua S. Weinstock*, Satish K Nandakumar, Charles P Fulco, …, Sekar Kathiresan^, Pradeep Natarajan^\n    Nature, 2020\n  \n\n  \n     LabWAS: Novel findings and study design recommendations from a meta-analysis of clinical labs in two independent biobanks  \n    Jeffrey A. Goldstein*, Joshua S. Weinstock*, Lisa A. Bastarache, …, Matthew Zawistowski^\n    PLOS Genetics, 2020\n  \n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News and Press",
+    "objectID": "resources.html#somatic-variation-analysis",
+    "href": "resources.html#somatic-variation-analysis",
+    "title": "Resources",
     "section": "",
-    "text": "We presented our work on novel forms of CH point mutations at ASHG 2025 (platform talk)\nOur work on ‘driverless’ CH is now up at Nature Communications"
+    "text": "GEM : The genomic and epigenomic mutation rate estimator.\n\npileup_region : This was used to call U2AF1 mutatios in TOPMed.\nPACER . This is the ‘official’ implementation of the variant calling procedure to quantify passenger mutations, which are the key ingredient of the Passenger-Approximated Clonal Expansion Rate (PACER).\nsomatic.emory.edu : Our interactive portal for viewing associations between CH point mutations and disease in UKB at a single-variant level\nCH calling pipeline : Our bcftools approach to calling CH point mutations"
   },
   {
-    "objectID": "news.html#section",
-    "href": "news.html#section",
-    "title": "News and Press",
+    "objectID": "resources.html#our-methods-development-philosophy",
+    "href": "resources.html#our-methods-development-philosophy",
+    "title": "Resources",
     "section": "",
-    "text": "We presented our work on novel forms of CH point mutations at ASHG 2025 (platform talk)\nOur work on ‘driverless’ CH is now up at Nature Communications"
-  },
-  {
-    "objectID": "news.html#section-1",
-    "href": "news.html#section-1",
-    "title": "News and Press",
-    "section": "2025/9/28",
-    "text": "2025/9/28\nXuebo Wang presented our work on using genomic foundation models to infer gene regulatory networks at the DOHG retreat."
-  },
-  {
-    "objectID": "news.html#section-2",
-    "href": "news.html#section-2",
-    "title": "News and Press",
-    "section": "2025/7/22",
-    "text": "2025/7/22\nWe preprinted our new polygenic risk score method (with April Kim and Alexis Battle)."
-  },
-  {
-    "objectID": "news.html#section-3",
-    "href": "news.html#section-3",
-    "title": "News and Press",
-    "section": "2025/2/7",
-    "text": "2025/2/7\nWe presented our work on gene regulatory network inference in CD4 T cells to the ENCORE group."
-  },
-  {
-    "objectID": "news.html#section-4",
-    "href": "news.html#section-4",
-    "title": "News and Press",
-    "section": "2024/11/7",
-    "text": "2024/11/7\nWe presented our work on clonal hematopoiesis without known drivers at ASHG24, which received a reviewers’ choice award (top 10% of poster abstracts)."
-  },
-  {
-    "objectID": "news.html#section-5",
-    "href": "news.html#section-5",
-    "title": "News and Press",
-    "section": "2024/10/11",
-    "text": "2024/10/11\nOur work on inferring gene regulatory networks in CD4+ T cells is now online at Cell Genomics!"
-  },
-  {
-    "objectID": "news.html#section-6",
-    "href": "news.html#section-6",
-    "title": "News and Press",
-    "section": "2024/10/1",
-    "text": "2024/10/1\nWe extraordinarily fortunate to welcome three talented students to the lab:\n\nMaster’s students\n\nXuebo Wang\n\n\n\nUndergraduate students\n\nAmber Zhou\nMingke Tian"
-  },
-  {
-    "objectID": "news.html#section-7",
-    "href": "news.html#section-7",
-    "title": "News and Press",
-    "section": "2024/08/14",
-    "text": "2024/08/14\nWe’ve opened our doors at Emory!"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "josh.weinstock@emory.edu"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "josh.weinstock@emory.edu"
-  },
-  {
-    "objectID": "contact.html#office",
-    "href": "contact.html#office",
-    "title": "Contact",
-    "section": "Office",
-    "text": "Office\n347 Whitehead Building\n615 Michael Street\nAtlanta, GA 30322\nPhone: (404)-727-4241"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Joshua Weinstock, Ph.D.",
-    "section": "",
-    "text": "I am an Assistant Professor in the Department of Human Genetics at Emory University. My lab uses statistical and machine learning approaches to discover and characterize disease associated genetic variation. Previously, I was a postdoctoral scholar working jointly with Jonathan Pritchard (Stanford, Genetics) and Alexis Battle (Johns Hopkins, Biomedical Engineering), and then an Assistant Research Scientist in the Battle Lab. I completed a PhD in the Biostatistics department of the University of Michigan, where I was advised by Goncalo Abecasis. At Michigan, my contributions included analysis of somatic variation called from whole genomes generated by the NHLBI TOPMed consortium. I have also consulted for a number of years with a Major League Baseball team on sports statistics."
-  },
-  {
-    "objectID": "index.html#germline-determinants-of-somatic-mosaicism",
-    "href": "index.html#germline-determinants-of-somatic-mosaicism",
-    "title": "Our research program",
-    "section": "Germline determinants of somatic mosaicism",
-    "text": "Germline determinants of somatic mosaicism\nPrevious and ongoing work leverages biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations."
-  },
-  {
-    "objectID": "index.html#gene-regulatory-networks-complex-traits",
-    "href": "index.html#gene-regulatory-networks-complex-traits",
-    "title": "Our research program",
-    "section": "Gene regulatory networks + complex traits",
-    "text": "Gene regulatory networks + complex traits\nWe are interested in the characterization of the trans-regulatory cascade of disease-associated regulatory variation discovered by GWAS. We are particularly enthusiastic about high-throughput CRISPR perturbation approaches paired with bespoke statistical methods for computationally inferring gene regulatory networks. Our perspective is that these gene regulatory networks offer rich mechanistic insight into otherwise opaque GWAS loci.\n\nOur lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets."
+    "text": "We develop primarily in R/Python/Julia/Rust, with things trending more towards Julia and Rust. We aspire to write code that facilitates reproducible science. Practically, this means unit tests, documentation, Docker/Singularity images, and continuous integration (all of these facilitate reproducibility). We are increasingly adopting these principles into all of our code bases that are in progress."
   },
   {
     "objectID": "positions.html",
@@ -175,38 +98,150 @@
     "text": "Our lab culture\nWe value a highly collaborative, interactive scientific environment, where cross-pollination of ideas from trainees in different disciplines is highly encouraged. We especially prioritize an inclusive, polite, and professional work culture. We have a mix of regular events, spanning lab meetings, journal clubs, and lab lunches and other social events."
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "LLCB : Our algorithm for inferring gene-regulatory networks from arrayed CRISPR perturbations with a bulk RNA-seq read-out.\n\n\n\n\n\ngwasplot : This is our in house R package for working with large-scale GWAS derived from WGS with many rare variants. It is very performant because it uses duckdb underneath.\nUKB_regenie_workflow : This our workflow for running REGENIE in the UK Biobank DNA Nexus RAP. It is better than the ‘applet’ built into the platform.\nPRSFNN: Our neural empirical Bayesian PRS method.\nPRSFNN SNP Annotations: Our pipeline for generating SNP annotations for PRSFNN.\n\n\n\n\n\nGEM : The genomic and epigenomic mutation rate estimator.\n\npileup_region : This was used to call U2AF1 mutatios in TOPMed.\nPACER . This is the ‘official’ implementation of the variant calling procedure to quantify passenger mutations, which are the key ingredient of the Passenger-Approximated Clonal Expansion Rate (PACER).\nsomatic.emory.edu : Our interactive portal for viewing associations between CH point mutations and disease in UKB at a single-variant level\nCH calling pipeline : Our bcftools approach to calling CH point mutations\n\n\n\n\nWe develop primarily in R/Python/Julia/Rust, with things trending more towards Julia and Rust. We aspire to write code that facilitates reproducible science. Practically, this means unit tests, documentation, Docker/Singularity images, and continuous integration (all of these facilitate reproducibility). We are increasingly adopting these principles into all of our code bases that are in progress."
+    "objectID": "index.html#germline-determinants-of-somatic-mosaicism",
+    "href": "index.html#germline-determinants-of-somatic-mosaicism",
+    "title": "Our research program",
+    "section": "Germline determinants of somatic mosaicism",
+    "text": "Germline determinants of somatic mosaicism\nPrevious and ongoing work leverages biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations."
   },
   {
-    "objectID": "resources.html#gene-regulatory-network-inference",
-    "href": "resources.html#gene-regulatory-network-inference",
-    "title": "Resources",
-    "section": "",
-    "text": "LLCB : Our algorithm for inferring gene-regulatory networks from arrayed CRISPR perturbations with a bulk RNA-seq read-out."
+    "objectID": "index.html#gene-regulatory-networks-complex-traits",
+    "href": "index.html#gene-regulatory-networks-complex-traits",
+    "title": "Our research program",
+    "section": "Gene regulatory networks + complex traits",
+    "text": "Gene regulatory networks + complex traits\nWe are interested in the characterization of the trans-regulatory cascade of disease-associated regulatory variation discovered by GWAS. We are particularly enthusiastic about high-throughput CRISPR perturbation approaches paired with bespoke statistical methods for computationally inferring gene regulatory networks. Our perspective is that these gene regulatory networks offer rich mechanistic insight into otherwise opaque GWAS loci.\n\nOur lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets."
   },
   {
-    "objectID": "resources.html#gwas-prs",
-    "href": "resources.html#gwas-prs",
-    "title": "Resources",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Joshua Weinstock, Ph.D.",
     "section": "",
-    "text": "gwasplot : This is our in house R package for working with large-scale GWAS derived from WGS with many rare variants. It is very performant because it uses duckdb underneath.\nUKB_regenie_workflow : This our workflow for running REGENIE in the UK Biobank DNA Nexus RAP. It is better than the ‘applet’ built into the platform.\nPRSFNN: Our neural empirical Bayesian PRS method.\nPRSFNN SNP Annotations: Our pipeline for generating SNP annotations for PRSFNN."
+    "text": "I am an Assistant Professor in the Department of Human Genetics at Emory University. My lab uses statistical and machine learning approaches to discover and characterize disease associated genetic variation. Previously, I was a postdoctoral scholar working jointly with Jonathan Pritchard (Stanford, Genetics) and Alexis Battle (Johns Hopkins, Biomedical Engineering), and then an Assistant Research Scientist in the Battle Lab. I completed a PhD in the Biostatistics department of the University of Michigan, where I was advised by Goncalo Abecasis. At Michigan, my contributions included analysis of somatic variation called from whole genomes generated by the NHLBI TOPMed consortium. I have also consulted for a number of years with a Major League Baseball team on sports statistics."
   },
   {
-    "objectID": "resources.html#somatic-variation-analysis",
-    "href": "resources.html#somatic-variation-analysis",
-    "title": "Resources",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "GEM : The genomic and epigenomic mutation rate estimator.\n\npileup_region : This was used to call U2AF1 mutatios in TOPMed.\nPACER . This is the ‘official’ implementation of the variant calling procedure to quantify passenger mutations, which are the key ingredient of the Passenger-Approximated Clonal Expansion Rate (PACER).\nsomatic.emory.edu : Our interactive portal for viewing associations between CH point mutations and disease in UKB at a single-variant level\nCH calling pipeline : Our bcftools approach to calling CH point mutations"
+    "text": "josh.weinstock@emory.edu"
   },
   {
-    "objectID": "resources.html#our-methods-development-philosophy",
-    "href": "resources.html#our-methods-development-philosophy",
-    "title": "Resources",
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
     "section": "",
-    "text": "We develop primarily in R/Python/Julia/Rust, with things trending more towards Julia and Rust. We aspire to write code that facilitates reproducible science. Practically, this means unit tests, documentation, Docker/Singularity images, and continuous integration (all of these facilitate reproducibility). We are increasingly adopting these principles into all of our code bases that are in progress."
+    "text": "josh.weinstock@emory.edu"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\n347 Whitehead Building\n615 Michael Street\nAtlanta, GA 30322\nPhone: (404)-727-4241"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News and Press",
+    "section": "",
+    "text": "Prarthana Sanjeeva Reddy joins the lab as Lead Research Specialist. Welcome!"
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News and Press",
+    "section": "",
+    "text": "Prarthana Sanjeeva Reddy joins the lab as Lead Research Specialist. Welcome!"
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News and Press",
+    "section": "2025/10/16",
+    "text": "2025/10/16\n\nWe presented our work on novel forms of CH point mutations at ASHG 2025 (platform talk)\nOur work on ‘driverless’ CH is now up at Nature Communications"
+  },
+  {
+    "objectID": "news.html#section-2",
+    "href": "news.html#section-2",
+    "title": "News and Press",
+    "section": "2025/9/28",
+    "text": "2025/9/28\nXuebo Wang presented our work on using genomic foundation models to infer gene regulatory networks at the DOHG retreat."
+  },
+  {
+    "objectID": "news.html#section-3",
+    "href": "news.html#section-3",
+    "title": "News and Press",
+    "section": "2025/7/22",
+    "text": "2025/7/22\nWe preprinted our new polygenic risk score method (with April Kim and Alexis Battle)."
+  },
+  {
+    "objectID": "news.html#section-4",
+    "href": "news.html#section-4",
+    "title": "News and Press",
+    "section": "2025/2/7",
+    "text": "2025/2/7\nWe presented our work on gene regulatory network inference in CD4 T cells to the ENCORE group."
+  },
+  {
+    "objectID": "news.html#section-5",
+    "href": "news.html#section-5",
+    "title": "News and Press",
+    "section": "2024/11/7",
+    "text": "2024/11/7\nWe presented our work on clonal hematopoiesis without known drivers at ASHG24, which received a reviewers’ choice award (top 10% of poster abstracts)."
+  },
+  {
+    "objectID": "news.html#section-6",
+    "href": "news.html#section-6",
+    "title": "News and Press",
+    "section": "2024/10/11",
+    "text": "2024/10/11\nOur work on inferring gene regulatory networks in CD4+ T cells is now online at Cell Genomics!"
+  },
+  {
+    "objectID": "news.html#section-7",
+    "href": "news.html#section-7",
+    "title": "News and Press",
+    "section": "2024/10/1",
+    "text": "2024/10/1\nWe extraordinarily fortunate to welcome three talented students to the lab:\n\nMaster’s students\n\nXuebo Wang\n\n\n\nUndergraduate students\n\nAmber Zhou\nMingke Tian"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "See our work in Google Scholar\n* denotes co-first authorship, and ^ denotes corresponding authorship."
+  },
+  {
+    "objectID": "publications.html#all-publications-and-preprints",
+    "href": "publications.html#all-publications-and-preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "See our work in Google Scholar\n* denotes co-first authorship, and ^ denotes corresponding authorship."
+  },
+  {
+    "objectID": "publications.html#selected-publications-and-preprints",
+    "href": "publications.html#selected-publications-and-preprints",
+    "title": "Publications",
+    "section": "Selected publications and preprints",
+    "text": "Selected publications and preprints\n\n\n\n  \n     The Genetic Determinants and Genomic Consequences of Non-Leukemogenic Somatic Point Mutations  \n    Joshua S. Weinstock^, Sharjeel A. Chaudhry, Maria Ioannou, Maria Viskadourou, ..., Alexis Battle^, Marios Arvanitis^\n    Nature Communications, 2025\n  \n\n  \n     Genome-wide characterization of clonal hematopoiesis reveals extensive non-coding putative driver mutations  \n    Joshua S. Weinstock^, Karen Conneely, Janghee Woo, Marios Arvanitis, Mitchell J. Machiela, Cameron Russell\n    medRxiv, 2025\n  \n\n  \n     Polygenic prediction of phenotypes with a neural empirical Bayes approach  \n    Joshua S. Weinstock*, April Kim*, Alexis Battle\n    medRxiv, 2025\n  \n\n  \n     Gene regulatory network inference from CRISPR perturbations in primary CD4+ T cells elucidates the genomic basis of immune disease  \n    Joshua S. Weinstock*, Maya M. Arce*, Jacob Freimer, Mineto Ota, Alexander Marson^, Alexis Battle^, Jonathan Pritchard^\n    Cell Genomics, 2024\n  \n\n  \n     The genetic determinants of recurrent somatic mutations in 43,693 blood genomes  \n    Joshua S. Weinstock^, Cecelia A Laurie, Jai G Broome, et al.\n    Science Advances, 2023\n  \n\n  \n     Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis  \n    Joshua S. Weinstock*, Jayakrishan Gopakumar*, Bala Bharathi Burugla, Md Mesbah Uddin, …, Alexander G. Bick^, Siddhartha Jaiswal^\n    Nature, 2023\n  \n\n  \n     Inherited causes of clonal haematopoiesis in 97,691 whole genomes  \n    Alexander G. Bick*, Joshua S. Weinstock*, Satish K Nandakumar, Charles P Fulco, …, Sekar Kathiresan^, Pradeep Natarajan^\n    Nature, 2020\n  \n\n  \n     LabWAS: Novel findings and study design recommendations from a meta-analysis of clinical labs in two independent biobanks  \n    Jeffrey A. Goldstein*, Joshua S. Weinstock*, Lisa A. Bastarache, …, Matthew Zawistowski^\n    PLOS Genetics, 2020\n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Mendelian Randomization\nGWAS methods for biobank scale data\nPolygenic risk scores and linkage disequilibrium regression"
+  },
+  {
+    "objectID": "teaching.html#bios-770-statistical-methods-in-human-genetics-spring-2025",
+    "href": "teaching.html#bios-770-statistical-methods-in-human-genetics-spring-2025",
+    "title": "Teaching",
+    "section": "",
+    "text": "Mendelian Randomization\nGWAS methods for biobank scale data\nPolygenic risk scores and linkage disequilibrium regression"
+  },
+  {
+    "objectID": "news.html#section-8",
+    "href": "news.html#section-8",
+    "title": "News and Press",
+    "section": "2024/08/14",
+    "text": "2024/08/14\nWe’ve opened our doors at Emory!"
   }
 ]

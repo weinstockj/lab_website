@@ -25,6 +25,8 @@ website:
         text: Resources
       - href: positions.qmd
         text: "Positions"
+      - href: team.qmd
+        text: "Team"
       - href: contact.qmd
         text: "Contact"
       - href: news.qmd
