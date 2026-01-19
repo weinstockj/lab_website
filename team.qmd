@@ -15,7 +15,7 @@ title: "Team"
 ::: {.g-col-12 .g-col-md-9}
 **Xuebo Wang**
 
-Xuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program.
+Xuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program. Xuebo is co-mentored by Dr. Chang Su (Emory, BIOS).
 
 <!-- -- [{{< fa envelope >}}](mailto:student@emory.edu) -->
 :::

@@ -11,7 +11,7 @@
     "href": "team.html#phd-students",
     "title": "Team",
     "section": "PhD Students",
-    "text": "PhD Students\n\n\nXuebo Wang\nXuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program.\n\n\n\nYikai Dong\nYikai is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab."
+    "text": "PhD Students\n\n\nXuebo Wang\nXuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program. Xuebo is co-mentored by Dr. Chang Su (Emory, BIOS).\n\n\n\nYikai Dong\nYikai is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab."
   },
   {
     "objectID": "team.html#research-staff",
@@ -203,6 +203,13 @@
     "text": "2024/10/1\nWe extraordinarily fortunate to welcome three talented students to the lab:\n\nMaster’s students\n\nXuebo Wang\n\n\n\nUndergraduate students\n\nAmber Zhou\nMingke Tian"
   },
   {
+    "objectID": "news.html#section-8",
+    "href": "news.html#section-8",
+    "title": "News and Press",
+    "section": "2024/08/14",
+    "text": "2024/08/14\nWe’ve opened our doors at Emory!"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -236,12 +243,5 @@
     "title": "Teaching",
     "section": "",
     "text": "Mendelian Randomization\nGWAS methods for biobank scale data\nPolygenic risk scores and linkage disequilibrium regression"
-  },
-  {
-    "objectID": "news.html#section-8",
-    "href": "news.html#section-8",
-    "title": "News and Press",
-    "section": "2024/08/14",
-    "text": "2024/08/14\nWe’ve opened our doors at Emory!"
   }
 ]
