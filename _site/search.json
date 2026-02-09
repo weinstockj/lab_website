@@ -11,7 +11,7 @@
     "href": "team.html#phd-students",
     "title": "Team",
     "section": "PhD Students",
-    "text": "PhD Students\n\n\nXuebo Wang\nXuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program. Xuebo is co-mentored by Dr. Chang Su (Emory, BIOS).\n\n\n\nYikai Dong\nYikai is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab."
+    "text": "PhD Students\n\n\nXuebo Wang\nXuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program. Xuebo is co-mentored by Dr. Chang Su (Emory, BIOS).\n\n\n\nYikai Dong\nYikai is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab.\n\n\nSean Jones\nSean Jones is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab."
   },
   {
     "objectID": "team.html#research-staff",
@@ -144,67 +144,81 @@
     "href": "news.html",
     "title": "News and Press",
     "section": "",
-    "text": "Prarthana Sanjeeva Reddy joins the lab as Lead Research Specialist. Welcome!"
+    "text": "Our work on novel forms of CH point mutations was described in a recent Cancer Discovery News article on using AI to understand the regulatory genome in cancer."
   },
   {
     "objectID": "news.html#section",
     "href": "news.html#section",
     "title": "News and Press",
     "section": "",
-    "text": "Prarthana Sanjeeva Reddy joins the lab as Lead Research Specialist. Welcome!"
+    "text": "Our work on novel forms of CH point mutations was described in a recent Cancer Discovery News article on using AI to understand the regulatory genome in cancer."
   },
   {
     "objectID": "news.html#section-1",
     "href": "news.html#section-1",
     "title": "News and Press",
-    "section": "2025/10/16",
-    "text": "2025/10/16\n\nWe presented our work on novel forms of CH point mutations at ASHG 2025 (platform talk)\nOur work on ‘driverless’ CH is now up at Nature Communications"
+    "section": "2026/02/01",
+    "text": "2026/02/01\nSean Jones (GMB PhD student) joins the lab for a rotation. Welcome, Sean!"
   },
   {
     "objectID": "news.html#section-2",
     "href": "news.html#section-2",
     "title": "News and Press",
-    "section": "2025/9/28",
-    "text": "2025/9/28\nXuebo Wang presented our work on using genomic foundation models to infer gene regulatory networks at the DOHG retreat."
+    "section": "2026/01/05",
+    "text": "2026/01/05\n\nPrarthana Sanjeeva Reddy joins the lab as Lead Research Specialist. Welcome!\nYikai Dong (GMB PhD student) joins the lab for a rotation. Welcome, Yikai!"
   },
   {
     "objectID": "news.html#section-3",
     "href": "news.html#section-3",
     "title": "News and Press",
-    "section": "2025/7/22",
-    "text": "2025/7/22\nWe preprinted our new polygenic risk score method (with April Kim and Alexis Battle)."
+    "section": "2025/10/16",
+    "text": "2025/10/16\n\nWe presented our work on novel forms of CH point mutations at ASHG 2025 (platform talk)\nOur work on ‘driverless’ CH is now up at Nature Communications"
   },
   {
     "objectID": "news.html#section-4",
     "href": "news.html#section-4",
     "title": "News and Press",
-    "section": "2025/2/7",
-    "text": "2025/2/7\nWe presented our work on gene regulatory network inference in CD4 T cells to the ENCORE group."
+    "section": "2025/9/28",
+    "text": "2025/9/28\nXuebo Wang presented our work on using genomic foundation models to infer gene regulatory networks at the DOHG retreat."
   },
   {
     "objectID": "news.html#section-5",
     "href": "news.html#section-5",
     "title": "News and Press",
-    "section": "2024/11/7",
-    "text": "2024/11/7\nWe presented our work on clonal hematopoiesis without known drivers at ASHG24, which received a reviewers’ choice award (top 10% of poster abstracts)."
+    "section": "2025/7/22",
+    "text": "2025/7/22\nWe preprinted our new polygenic risk score method (with April Kim and Alexis Battle)."
   },
   {
     "objectID": "news.html#section-6",
     "href": "news.html#section-6",
     "title": "News and Press",
-    "section": "2024/10/11",
-    "text": "2024/10/11\nOur work on inferring gene regulatory networks in CD4+ T cells is now online at Cell Genomics!"
+    "section": "2025/2/7",
+    "text": "2025/2/7\nWe presented our work on gene regulatory network inference in CD4 T cells to the ENCORE group."
   },
   {
     "objectID": "news.html#section-7",
     "href": "news.html#section-7",
     "title": "News and Press",
-    "section": "2024/10/1",
-    "text": "2024/10/1\nWe extraordinarily fortunate to welcome three talented students to the lab:\n\nMaster’s students\n\nXuebo Wang\n\n\n\nUndergraduate students\n\nAmber Zhou\nMingke Tian"
+    "section": "2024/11/7",
+    "text": "2024/11/7\nWe presented our work on clonal hematopoiesis without known drivers at ASHG24, which received a reviewers’ choice award (top 10% of poster abstracts)."
   },
   {
     "objectID": "news.html#section-8",
     "href": "news.html#section-8",
+    "title": "News and Press",
+    "section": "2024/10/11",
+    "text": "2024/10/11\nOur work on inferring gene regulatory networks in CD4+ T cells is now online at Cell Genomics!"
+  },
+  {
+    "objectID": "news.html#section-9",
+    "href": "news.html#section-9",
+    "title": "News and Press",
+    "section": "2024/10/1",
+    "text": "2024/10/1\nWe extraordinarily fortunate to welcome three talented students to the lab:\n\nMaster’s students\n\nXuebo Wang\n\n\n\nUndergraduate students\n\nAmber Zhou\nMingke Tian"
+  },
+  {
+    "objectID": "news.html#section-10",
+    "href": "news.html#section-10",
     "title": "News and Press",
     "section": "2024/08/14",
     "text": "2024/08/14\nWe’ve opened our doors at Emory!"
