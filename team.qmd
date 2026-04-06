@@ -26,12 +26,6 @@ Xuebo is a 1st year PhD student in the Biostatistics and Bioinformatics program.
 Yikai is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab.
 :::
 
-::: {.g-col-12 .g-col-md-9}
-**Sean Jones**
-
-Sean Jones is a 1st year Genetics and Molecular Biology PhD student currently rotating in the lab.
-:::
-
 ## Research Staff
 
 ::: {.g-col-12 .g-col-md-3}
@@ -51,3 +45,4 @@ Prarthana Sanjeeva Reddy is a Lead Research Specialist at Emory School of Medici
 
 - **Mingke Tian** (2024-2025), Emory Undergraduate
 - **Amber Zhou** (2024-2025), Emory Undergraduate
+- **Sean Jones** (2026), GMB PhD student (rotation)
