@@ -2,6 +2,18 @@
 title: "News and Press"
 ---
 
+## 2026/05/07
+
+We presented our [work on novel forms of CH point mutations](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v2) at the Biology of Genomes 2026 (talk).
+
+## 2026/04/29
+
+Yikai Dong and Prarthana Reddy presented our work during our "Research in Progress" seminar at the DOHG. 
+
+## 2026/03/31
+
+Congratulations to Xuebo Wang for his 2nd place finish for the Patek-Naik Award for pre-candidacy BIOS PhD students! Xuebo received the award for his outstanding research proposal. 
+
 ## 2026/02/09
 
 Our [work on novel forms of CH  point mutations](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v2) was described in a recent [Cancer Discovery News](https://aacrjournals.org/cdnews/news/3019/Bringing-AI-to-Cancer-s-Regulatory-Genome) article on using AI to understand the regulatory genome in cancer.

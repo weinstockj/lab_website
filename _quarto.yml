@@ -39,7 +39,7 @@ format:
     theme:
       - journal
       - styles.scss
-    mainfont: Roboto
+    mainfont: JetBrains Mono
     toc: true
     page-layout: full
 
