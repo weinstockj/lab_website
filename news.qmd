@@ -2,6 +2,10 @@
 title: "News and Press"
 ---
 
+## 2026/05/19
+
+Xuebo Wang (perturb-seq modeling) and Yikai Dong (centromere structural variation) presented our work at the STATGEN 2026 conference.
+
 ## 2026/05/07
 
 We presented our [work on novel forms of CH point mutations](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v2) at the Biology of Genomes 2026 (talk).

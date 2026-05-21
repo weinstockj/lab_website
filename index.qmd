@@ -15,24 +15,32 @@ title: ""
 
 # Our research program
 
-We work at the **nexus of human genetics, biostatistics, and computation to discover and characterize disease associated genetic variation**. We are excited about both genetic epidemiology and computational methods development. 
-
-Our **interests span both germline and somatic forms of genetic variation**, and integrative analyses thereof. In more detail, our interests span two primary axes:
+We study how genetic variation influences disease by combining **human genetics, statistics, and machine learning**. We focus on both inherited genetic variants (germline) and genetic variation that arises during life (somatic), and how these interact.
 
 
 ## Germline determinants of somatic mosaicism
 
-Previous and ongoing work leverages **biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions** and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both leukemogenic point mutations as well as relatively uncharacterized recurrent non-coding point mutations.
+__We are all mosaics__, meaning that we harbor genetic variation that arises during life. This somatic mosaicism is a fundamental aspect of human biology and has been implicated in a wide range of diseases, including cancer, neurodegenerative disorders, and autoimmune diseases. But why this happens, and how this happens, is not well understood. 
+
+Previous and ongoing work leverages **biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions** and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both canonical leukemogenic mutations as well as relatively uncharacterized recurrent non-coding point mutations.
 
 <img src="images/TCL1A_GWAS.png" alt="TCL1A GWAS" style="width: 80%;">
 
+Representative papers: [Weinstock\* and Gopakumar\* et al., __Nature__, 2023](https://www.nature.com/articles/s41586-023-05806-1), [Weinstock et al., Nature Communications, 2025](https://www.nature.com/articles/s41467-025-64236-x), [Weinstock et al., medRxiv, 2025](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v1)
+
 ## Gene regulatory networks + complex traits
 
-We are interested in the characterization of the trans-regulatory cascade of disease-associated regulatory variation discovered by GWAS. **We are particularly enthusiastic about high-throughput CRISPR perturbation approaches paired with bespoke statistical methods for computationally inferring gene regulatory networks**. Our perspective is that these gene regulatory networks offer rich mechanistic insight into otherwise opaque GWAS loci.
+Complex traits are influenced by a very large number of genetic variants, each with a small effect. Several genome-wide associaciation studies (GWAS) have shown that these variants usually lie in non-coding regions of the genome and influence disease risk by regulating gene expression. However, the mechanisms by which these variants regulate genes are often unclear.
+
+We pair data from pooled high-content CRISPR screens with new statistical methods to map gene regulatory networks -- showing which genes regulate others -- to uncover the mechanisms behind these GWAS signals.
 
 <img src="images/LLCB_sub_figure.svg" alt="LLCB" style="width: 80%;">
 
 Our lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets.
+
+## Statistical modeling and machine learning for human genetics
+
+We have a broad interest in improving the statistical modeling of genetic and genomic data to improve disease prediction from genetic data. See, for example, our recent [polygenic risk score work](https://www.medrxiv.org/content/10.1101/2025.07.21.25331918v1), which improves modeling of genetic risk through integration of functional genomic annotations and a new statistical model for the distribution of effect sizes across the genome.
 
 # Affiliations
 
