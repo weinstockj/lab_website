@@ -1,0 +1,7 @@
+---
+Title: "Multi-ancestry analysis of 791K whole genomes reveals the genetic, geographic, and phenotypic correlates of somatic passenger mutations in blood"
+Authors: "Prarthana S. Reddy, Karen N. Conneely, Joshua S. Weinstock"
+Venue: "medRxiv"
+Year: 2026
+DOI: "https://www.medrxiv.org/content/10.64898/2026.08.21.26361040v1"
+---

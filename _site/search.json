@@ -63,6 +63,181 @@
     "text": "We develop primarily in R/Python/Julia/Rust, with things trending more towards Julia and Rust. We aspire to write code that facilitates reproducible science. Practically, this means unit tests, documentation, Docker/Singularity images, and continuous integration (all of these facilitate reproducibility). We are increasingly adopting these principles into all of our code bases that are in progress."
   },
   {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News and Press",
+    "section": "",
+    "text": "We preprinted Prarthana’s work on mapping the genetic architecture of somatic passenger mutations at population-scale"
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News and Press",
+    "section": "",
+    "text": "We preprinted Prarthana’s work on mapping the genetic architecture of somatic passenger mutations at population-scale"
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News and Press",
+    "section": "2026/06/04",
+    "text": "2026/06/04\nWe presented our work on novel forms of CH point mutations at the Cancer Prevention Research Conference"
+  },
+  {
+    "objectID": "news.html#section-2",
+    "href": "news.html#section-2",
+    "title": "News and Press",
+    "section": "2026/05/19",
+    "text": "2026/05/19\nXuebo Wang (perturb-seq modeling) and Yikai Dong (centromere structural variation) presented our work at the STATGEN 2026 conference."
+  },
+  {
+    "objectID": "news.html#section-3",
+    "href": "news.html#section-3",
+    "title": "News and Press",
+    "section": "2026/05/07",
+    "text": "2026/05/07\nWe presented our work on novel forms of CH point mutations at the Biology of Genomes 2026 (talk)."
+  },
+  {
+    "objectID": "news.html#section-4",
+    "href": "news.html#section-4",
+    "title": "News and Press",
+    "section": "2026/04/29",
+    "text": "2026/04/29\nYikai Dong and Prarthana Reddy presented our work during our “Research in Progress” seminar at the DOHG."
+  },
+  {
+    "objectID": "news.html#section-5",
+    "href": "news.html#section-5",
+    "title": "News and Press",
+    "section": "2026/03/31",
+    "text": "2026/03/31\nCongratulations to Xuebo Wang for his 2nd place finish for the Patek-Naik Award for pre-candidacy BIOS PhD students! Xuebo received the award for his outstanding research proposal."
+  },
+  {
+    "objectID": "news.html#section-6",
+    "href": "news.html#section-6",
+    "title": "News and Press",
+    "section": "2026/02/09",
+    "text": "2026/02/09\nOur work on novel forms of CH point mutations was described in a recent Cancer Discovery News article on using AI to understand the regulatory genome in cancer."
+  },
+  {
+    "objectID": "news.html#section-7",
+    "href": "news.html#section-7",
+    "title": "News and Press",
+    "section": "2026/02/01",
+    "text": "2026/02/01\nSean Jones (GMB PhD student) joins the lab for a rotation. Welcome, Sean!"
+  },
+  {
+    "objectID": "news.html#section-8",
+    "href": "news.html#section-8",
+    "title": "News and Press",
+    "section": "2026/01/05",
+    "text": "2026/01/05\n\nPrarthana Sanjeeva Reddy joins the lab as Lead Research Specialist. Welcome!\nYikai Dong (GMB PhD student) joins the lab for a rotation. Welcome, Yikai!"
+  },
+  {
+    "objectID": "news.html#section-9",
+    "href": "news.html#section-9",
+    "title": "News and Press",
+    "section": "2025/10/16",
+    "text": "2025/10/16\n\nWe presented our work on novel forms of CH point mutations at ASHG 2025 (platform talk)\nOur work on ‘driverless’ CH is now up at Nature Communications"
+  },
+  {
+    "objectID": "news.html#section-10",
+    "href": "news.html#section-10",
+    "title": "News and Press",
+    "section": "2025/9/28",
+    "text": "2025/9/28\nXuebo Wang presented our work on using genomic foundation models to infer gene regulatory networks at the DOHG retreat."
+  },
+  {
+    "objectID": "news.html#section-11",
+    "href": "news.html#section-11",
+    "title": "News and Press",
+    "section": "2025/7/22",
+    "text": "2025/7/22\nWe preprinted our new polygenic risk score method (with April Kim and Alexis Battle)."
+  },
+  {
+    "objectID": "news.html#section-12",
+    "href": "news.html#section-12",
+    "title": "News and Press",
+    "section": "2025/2/7",
+    "text": "2025/2/7\nWe presented our work on gene regulatory network inference in CD4 T cells to the ENCORE group."
+  },
+  {
+    "objectID": "news.html#section-13",
+    "href": "news.html#section-13",
+    "title": "News and Press",
+    "section": "2024/11/7",
+    "text": "2024/11/7\nWe presented our work on clonal hematopoiesis without known drivers at ASHG24, which received a reviewers’ choice award (top 10% of poster abstracts)."
+  },
+  {
+    "objectID": "news.html#section-14",
+    "href": "news.html#section-14",
+    "title": "News and Press",
+    "section": "2024/10/11",
+    "text": "2024/10/11\nOur work on inferring gene regulatory networks in CD4+ T cells is now online at Cell Genomics!"
+  },
+  {
+    "objectID": "news.html#section-15",
+    "href": "news.html#section-15",
+    "title": "News and Press",
+    "section": "2024/10/1",
+    "text": "2024/10/1\nWe extraordinarily fortunate to welcome three talented students to the lab:\n\nMaster’s students\n\nXuebo Wang\n\n\n\nUndergraduate students\n\nAmber Zhou\nMingke Tian"
+  },
+  {
+    "objectID": "news.html#section-16",
+    "href": "news.html#section-16",
+    "title": "News and Press",
+    "section": "2024/08/14",
+    "text": "2024/08/14\nWe’ve opened our doors at Emory!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "josh.weinstock@emory.edu"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "josh.weinstock@emory.edu"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\n347 Whitehead Building\n615 Michael Street\nAtlanta, GA 30322\nPhone: (404)-727-4241"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Joshua Weinstock, Ph.D.",
+    "section": "",
+    "text": "I am an Assistant Professor in the Department of Human Genetics at Emory University. My lab uses statistical and machine learning approaches to discover and characterize disease associated genetic variation. Previously, I was a postdoctoral scholar working jointly with Jonathan Pritchard (Stanford, Genetics) and Alexis Battle (Johns Hopkins, Biomedical Engineering), and then an Assistant Research Scientist in the Battle Lab. I completed a PhD in the Biostatistics department of the University of Michigan, where I was advised by Goncalo Abecasis. At Michigan, my contributions included analysis of somatic variation called from whole genomes generated by the NHLBI TOPMed consortium. I have also consulted for a number of years with a Major League Baseball team on sports statistics."
+  },
+  {
+    "objectID": "index.html#germline-determinants-of-somatic-mosaicism",
+    "href": "index.html#germline-determinants-of-somatic-mosaicism",
+    "title": "Our research program",
+    "section": "Germline determinants of somatic mosaicism",
+    "text": "Germline determinants of somatic mosaicism\nWe are all mosaics, meaning that we harbor genetic variation that arises during life. This somatic mosaicism is a fundamental aspect of human biology and has been implicated in a wide range of diseases, including cancer, neurodegenerative disorders, and autoimmune diseases. But why this happens, and how this happens, is not well understood.\nPrevious and ongoing work leverages biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both canonical leukemogenic mutations as well as relatively uncharacterized recurrent non-coding point mutations.\n\nRepresentative papers: Weinstock* and Gopakumar* et al., Nature, 2023, Weinstock et al., Nature Communications, 2025, Weinstock et al., medRxiv, 2025"
+  },
+  {
+    "objectID": "index.html#gene-regulatory-networks-complex-traits",
+    "href": "index.html#gene-regulatory-networks-complex-traits",
+    "title": "Our research program",
+    "section": "Gene regulatory networks + complex traits",
+    "text": "Gene regulatory networks + complex traits\nComplex traits are influenced by a very large number of genetic variants, each with a small effect. Several genome-wide associaciation studies (GWAS) have shown that these variants usually lie in non-coding regions of the genome and influence disease risk by regulating gene expression. However, the mechanisms by which these variants regulate genes are often unclear.\nWe pair data from pooled high-content CRISPR screens with new statistical methods to map gene regulatory networks – showing which genes regulate others – to uncover the mechanisms behind these GWAS signals.\n\nOur lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets."
+  },
+  {
+    "objectID": "index.html#statistical-modeling-and-machine-learning-for-human-genetics",
+    "href": "index.html#statistical-modeling-and-machine-learning-for-human-genetics",
+    "title": "Our research program",
+    "section": "Statistical modeling and machine learning for human genetics",
+    "text": "Statistical modeling and machine learning for human genetics\nWe have a broad interest in improving the statistical modeling of genetic and genomic data to improve disease prediction from genetic data. See, for example, our recent polygenic risk score work, which improves modeling of genetic risk through integration of functional genomic annotations and a new statistical model for the distribution of effect sizes across the genome."
+  },
+  {
     "objectID": "positions.html",
     "href": "positions.html",
     "title": "Open positions",
@@ -96,174 +271,6 @@
     "title": "Open positions",
     "section": "Our lab culture",
     "text": "Our lab culture\nWe value a highly collaborative, interactive scientific environment, where cross-pollination of ideas from trainees in different disciplines is highly encouraged. We especially prioritize an inclusive, polite, and professional work culture. We have a mix of regular events, spanning lab meetings, journal clubs, and lab lunches and other social events."
-  },
-  {
-    "objectID": "index.html#germline-determinants-of-somatic-mosaicism",
-    "href": "index.html#germline-determinants-of-somatic-mosaicism",
-    "title": "Our research program",
-    "section": "Germline determinants of somatic mosaicism",
-    "text": "Germline determinants of somatic mosaicism\nWe are all mosaics, meaning that we harbor genetic variation that arises during life. This somatic mosaicism is a fundamental aspect of human biology and has been implicated in a wide range of diseases, including cancer, neurodegenerative disorders, and autoimmune diseases. But why this happens, and how this happens, is not well understood.\nPrevious and ongoing work leverages biobank scale whole-genome sequencing (WGS) of blood to detect pre-malignant clonal expansions and to discover their germline determinants and phenotypic correlates. We are particularly interested in the germline determinants of clonal expansions of somatic point mutations in blood, spanning both canonical leukemogenic mutations as well as relatively uncharacterized recurrent non-coding point mutations.\n\nRepresentative papers: Weinstock* and Gopakumar* et al., Nature, 2023, Weinstock et al., Nature Communications, 2025, Weinstock et al., medRxiv, 2025"
-  },
-  {
-    "objectID": "index.html#gene-regulatory-networks-complex-traits",
-    "href": "index.html#gene-regulatory-networks-complex-traits",
-    "title": "Our research program",
-    "section": "Gene regulatory networks + complex traits",
-    "text": "Gene regulatory networks + complex traits\nComplex traits are influenced by a very large number of genetic variants, each with a small effect. Several genome-wide associaciation studies (GWAS) have shown that these variants usually lie in non-coding regions of the genome and influence disease risk by regulating gene expression. However, the mechanisms by which these variants regulate genes are often unclear.\nWe pair data from pooled high-content CRISPR screens with new statistical methods to map gene regulatory networks – showing which genes regulate others – to uncover the mechanisms behind these GWAS signals.\n\nOur lab furthers this mission though bespoke computational methods development and application. Our model has been to partner closely with experimentalists to develop statistical approaches that reflect deep biological and experimental intuition. We ultimately aspire to mitigate common disease burden through our discovery and characterization of novel therapeutic targets."
-  },
-  {
-    "objectID": "index.html#statistical-modeling-and-machine-learning-for-human-genetics",
-    "href": "index.html#statistical-modeling-and-machine-learning-for-human-genetics",
-    "title": "Our research program",
-    "section": "Statistical modeling and machine learning for human genetics",
-    "text": "Statistical modeling and machine learning for human genetics\nWe have a broad interest in improving the statistical modeling of genetic and genomic data to improve disease prediction from genetic data. See, for example, our recent polygenic risk score work, which improves modeling of genetic risk through integration of functional genomic annotations and a new statistical model for the distribution of effect sizes across the genome."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Joshua Weinstock, Ph.D.",
-    "section": "",
-    "text": "I am an Assistant Professor in the Department of Human Genetics at Emory University. My lab uses statistical and machine learning approaches to discover and characterize disease associated genetic variation. Previously, I was a postdoctoral scholar working jointly with Jonathan Pritchard (Stanford, Genetics) and Alexis Battle (Johns Hopkins, Biomedical Engineering), and then an Assistant Research Scientist in the Battle Lab. I completed a PhD in the Biostatistics department of the University of Michigan, where I was advised by Goncalo Abecasis. At Michigan, my contributions included analysis of somatic variation called from whole genomes generated by the NHLBI TOPMed consortium. I have also consulted for a number of years with a Major League Baseball team on sports statistics."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "josh.weinstock@emory.edu"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "josh.weinstock@emory.edu"
-  },
-  {
-    "objectID": "contact.html#office",
-    "href": "contact.html#office",
-    "title": "Contact",
-    "section": "Office",
-    "text": "Office\n347 Whitehead Building\n615 Michael Street\nAtlanta, GA 30322\nPhone: (404)-727-4241"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News and Press",
-    "section": "",
-    "text": "We presented our work on novel forms of CH point mutations at the Cancer Prevention Research Conference"
-  },
-  {
-    "objectID": "news.html#section",
-    "href": "news.html#section",
-    "title": "News and Press",
-    "section": "",
-    "text": "We presented our work on novel forms of CH point mutations at the Cancer Prevention Research Conference"
-  },
-  {
-    "objectID": "news.html#section-1",
-    "href": "news.html#section-1",
-    "title": "News and Press",
-    "section": "2026/05/19",
-    "text": "2026/05/19\nXuebo Wang (perturb-seq modeling) and Yikai Dong (centromere structural variation) presented our work at the STATGEN 2026 conference."
-  },
-  {
-    "objectID": "news.html#section-2",
-    "href": "news.html#section-2",
-    "title": "News and Press",
-    "section": "2026/05/07",
-    "text": "2026/05/07\nWe presented our work on novel forms of CH point mutations at the Biology of Genomes 2026 (talk)."
-  },
-  {
-    "objectID": "news.html#section-3",
-    "href": "news.html#section-3",
-    "title": "News and Press",
-    "section": "2026/04/29",
-    "text": "2026/04/29\nYikai Dong and Prarthana Reddy presented our work during our “Research in Progress” seminar at the DOHG."
-  },
-  {
-    "objectID": "news.html#section-4",
-    "href": "news.html#section-4",
-    "title": "News and Press",
-    "section": "2026/03/31",
-    "text": "2026/03/31\nCongratulations to Xuebo Wang for his 2nd place finish for the Patek-Naik Award for pre-candidacy BIOS PhD students! Xuebo received the award for his outstanding research proposal."
-  },
-  {
-    "objectID": "news.html#section-5",
-    "href": "news.html#section-5",
-    "title": "News and Press",
-    "section": "2026/02/09",
-    "text": "2026/02/09\nOur work on novel forms of CH point mutations was described in a recent Cancer Discovery News article on using AI to understand the regulatory genome in cancer."
-  },
-  {
-    "objectID": "news.html#section-6",
-    "href": "news.html#section-6",
-    "title": "News and Press",
-    "section": "2026/02/01",
-    "text": "2026/02/01\nSean Jones (GMB PhD student) joins the lab for a rotation. Welcome, Sean!"
-  },
-  {
-    "objectID": "news.html#section-7",
-    "href": "news.html#section-7",
-    "title": "News and Press",
-    "section": "2026/01/05",
-    "text": "2026/01/05\n\nPrarthana Sanjeeva Reddy joins the lab as Lead Research Specialist. Welcome!\nYikai Dong (GMB PhD student) joins the lab for a rotation. Welcome, Yikai!"
-  },
-  {
-    "objectID": "news.html#section-8",
-    "href": "news.html#section-8",
-    "title": "News and Press",
-    "section": "2025/10/16",
-    "text": "2025/10/16\n\nWe presented our work on novel forms of CH point mutations at ASHG 2025 (platform talk)\nOur work on ‘driverless’ CH is now up at Nature Communications"
-  },
-  {
-    "objectID": "news.html#section-9",
-    "href": "news.html#section-9",
-    "title": "News and Press",
-    "section": "2025/9/28",
-    "text": "2025/9/28\nXuebo Wang presented our work on using genomic foundation models to infer gene regulatory networks at the DOHG retreat."
-  },
-  {
-    "objectID": "news.html#section-10",
-    "href": "news.html#section-10",
-    "title": "News and Press",
-    "section": "2025/7/22",
-    "text": "2025/7/22\nWe preprinted our new polygenic risk score method (with April Kim and Alexis Battle)."
-  },
-  {
-    "objectID": "news.html#section-11",
-    "href": "news.html#section-11",
-    "title": "News and Press",
-    "section": "2025/2/7",
-    "text": "2025/2/7\nWe presented our work on gene regulatory network inference in CD4 T cells to the ENCORE group."
-  },
-  {
-    "objectID": "news.html#section-12",
-    "href": "news.html#section-12",
-    "title": "News and Press",
-    "section": "2024/11/7",
-    "text": "2024/11/7\nWe presented our work on clonal hematopoiesis without known drivers at ASHG24, which received a reviewers’ choice award (top 10% of poster abstracts)."
-  },
-  {
-    "objectID": "news.html#section-13",
-    "href": "news.html#section-13",
-    "title": "News and Press",
-    "section": "2024/10/11",
-    "text": "2024/10/11\nOur work on inferring gene regulatory networks in CD4+ T cells is now online at Cell Genomics!"
-  },
-  {
-    "objectID": "news.html#section-14",
-    "href": "news.html#section-14",
-    "title": "News and Press",
-    "section": "2024/10/1",
-    "text": "2024/10/1\nWe extraordinarily fortunate to welcome three talented students to the lab:\n\nMaster’s students\n\nXuebo Wang\n\n\n\nUndergraduate students\n\nAmber Zhou\nMingke Tian"
-  },
-  {
-    "objectID": "news.html#section-15",
-    "href": "news.html#section-15",
-    "title": "News and Press",
-    "section": "2024/08/14",
-    "text": "2024/08/14\nWe’ve opened our doors at Emory!"
   },
   {
     "objectID": "publications.html",

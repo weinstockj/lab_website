@@ -26,7 +26,7 @@ Previous and ongoing work leverages **biobank scale whole-genome sequencing (WGS
 
 <img src="images/TCL1A_GWAS.png" alt="TCL1A GWAS" style="width: 80%;">
 
-Representative papers: [Weinstock\* and Gopakumar\* et al., __Nature__, 2023](https://www.nature.com/articles/s41586-023-05806-1), [Weinstock et al., Nature Communications, 2025](https://www.nature.com/articles/s41467-025-64236-x), [Weinstock et al., medRxiv, 2025](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v1)
+Representative papers: [Weinstock\* and Gopakumar\* et al., Nature, 2023](https://www.nature.com/articles/s41586-023-05806-1), [Weinstock et al., Nature Communications, 2025](https://www.nature.com/articles/s41467-025-64236-x), [Weinstock et al., medRxiv, 2025](https://www.medrxiv.org/content/10.1101/2025.10.12.25337792v1)
 
 ## Gene regulatory networks + complex traits
 
